@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-#crypto : decale une lettre de clé caractere
+#crypto : decale une lettre de clé caractere: Naula commit 
 
 def chiffre_de_cesar(phrase, cle)
 
